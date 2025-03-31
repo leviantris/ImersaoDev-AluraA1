@@ -1,2 +1,3 @@
-# ImersaoDev-AluraA1
-Conversor de Wons para Reais, Doláres e Euro
+# Alura ImersaoDev-Aula1
+
+Esse serve de conversor de Wons para Reais, Doláres e Euro
